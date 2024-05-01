@@ -1,5 +1,3 @@
-# WarCardGame
-
 # War Card Game
 
 This is a Python implementation of the classic card game War. War is a simple game played with a standard deck of 52 cards, originally known as "War of the Cards." The game is typically played by two players, but it can also be played by more. 
